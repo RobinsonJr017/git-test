@@ -1,0 +1,5 @@
+Hola estoy practicando los comandos fundamentales de Git.
+
+
+NUNCA OLVIDAR:
+Camino a ser FullsTack, lo juro. 
